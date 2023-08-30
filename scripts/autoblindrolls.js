@@ -40,7 +40,7 @@ Hooks.once("init", () => {
 // Overrides the default roll mode for the death save dialog
 Hooks.on("dnd5e.preRollDeathSave", (actor, rollData) => {
   if( AutoBlindRolls.makeDeathSaveBlind() ){ 
-    rollData.rollMode = "blindroll";
+    rollData.rollMode = "gmroll";
     createAlertMsg();
   }
 });
