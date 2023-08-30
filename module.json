@@ -1,6 +1,6 @@
 {
   "name": "blind-roll-skills",
-  "title": "Crash's Automatic Blind Rolls (5e)",
+  "title": "Crash's Automatic Blind Rolls - Brenton's Fork",
   "description": "Allows the GM to force selected skill checks, initiative, saves, and attacks to roll blindly. Check package details for compatibility information.",
   "version": "0.9.1",
   "authors": [
@@ -35,9 +35,9 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "https://github.com/crash1115/blind-roll-skills",
-  "manifest": "https://raw.githubusercontent.com/crash1115/blind-roll-skills/master/module.json",
-  "download": "https://github.com/crash1115/blind-roll-skills/releases/download/v0.9.1/blind-roll-skills.zip",
-  "readme": "https://github.com//crash1115/blind-roll-skills/blob/master/README.md",
-  "bugs": "https://github.com/crash1115/blind-roll-skills/issues"
+  "url": "https://github.com/bajmorse/blind-roll-skills",
+  "manifest": "https://raw.githubusercontent.com/bajmorse/blind-roll-skills/master/module.json",
+  "download": "https://github.com/bajmorse/blind-roll-skills/releases/download/v0.9.1/blind-roll-skills.zip",
+  "readme": "https://github.com//bajmorse/blind-roll-skills/blob/master/README.md",
+  "bugs": "https://github.com/bajmorse/blind-roll-skills/issues"
 }
